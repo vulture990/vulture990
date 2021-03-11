@@ -6,3 +6,6 @@ Yo what's Up:
 - 🌱 I’m currently learning the gods language .
 - 💬 Ask me about Memes , Metal/Rock Music Philosophy/Psychology
 - 📫 How to reach me: Open your Third Eye xD
+
+
+![](https://github.com/vulture990/vulture990/blob/main/3510875172898d8d0ee7e86af2baf71b.gif)
