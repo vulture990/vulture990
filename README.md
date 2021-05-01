@@ -2,7 +2,7 @@
 
 Yo what's Up:
 
-- I'm a software engineering Student in Ensias.
+- I'm a software engineering Student .
 
 - My Games releases can be Found on : https://vulture99.itch.io/
 
