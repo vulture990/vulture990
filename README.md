@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Yo what's Up:
+
 
 - I'm a software engineering Student .
 
