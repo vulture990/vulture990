@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi there 👋,I'm Vulture
 
 
 
-- I'm a software engineering Student .
+- Full Stack Developer .
+- Game Developer .
+- Pixel art Lover .
 
-- My Games releases can be Found on : https://vulture99.itch.io/
-- AMA in discord: vulture #2322
 
-![](https://github.com/vulture990/vulture990/blob/main/walkside1.gif)
+- Switching Slowling to TS :) . 
+
+![](https://github.com/vulture990/vulture990/blob/main/readme.gif)
