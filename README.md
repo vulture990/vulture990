@@ -4,9 +4,7 @@
 
 - Full Stack Developer .
 - Game Developer .
-- Pixel art Lover .
-
 
 - Switching Slowling to TS :) . 
 
-![](https://github.com/vulture990/vulture990/blob/main/readme.gif)
+  ![Vulture's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulture990&theme=buefy&count_private=true)
