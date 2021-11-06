@@ -2,7 +2,7 @@
 
 ```ts
 
-const readMePlease = {
+const readMe = {
   greetings: "Hi there 👋.Feel Free to Look Around",
   Whoami: "Salbi Mohamed",
   usually: "building things or learning new stuff",
@@ -12,7 +12,7 @@ const readMePlease = {
 
 ```
 ```ts
-readMePlease.stats();
+readMe.stats();
 ```
   ![Vulture's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulture990&theme=buefy&count_private=true)
 
