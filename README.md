@@ -1,5 +1,9 @@
 
 
+```bash
+while true; do echo  "I Use Arch, Btw";done
+````
+
 ```ts
 
 const readMe = {
