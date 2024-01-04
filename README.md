@@ -9,7 +9,7 @@ const readMe = {
   Whoami: "Salbi Mohamed",
   usually: "building things or learning new stuff",
   in: "TypeScript && Python  ",
-  findMeOn: [{ twitter: "@Mohamedsalbi" }, { discord: "drowsy#2322" }],
+  findMeOn: [{ twitter: "@salbi_mohamed" }, { discord: "Vulture" }],
 };
 
 ```
