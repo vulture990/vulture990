@@ -13,8 +13,4 @@ const readMe = {
 };
 
 ```
-```ts 
->> readMe.stats();
-```
-  ![Vulture's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulture990&theme=buefy&count_private=true)
 
